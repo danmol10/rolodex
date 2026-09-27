@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:rolodex/data/contact_group.dart';
 import 'package:rolodex/screens/adaptive_layout.dart';
 
-final contactGroupModel = ContactGroupsModel();
+final contactGroupsModel = ContactGroupsModel();
 
 void main() {
   runApp(const RolodexApp());
